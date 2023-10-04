@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family:'Inter', sans-serif;
+  background: '#F2F4F3';
+  
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+#logo {
+  font-family: 'M PLUS Rounded 1c', sans-serif;      
+}
+#logo-logo{
+  font-family: 'Inter', sans-serif;      
+}
